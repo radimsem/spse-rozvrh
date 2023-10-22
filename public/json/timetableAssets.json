@@ -1,0 +1,422 @@
+[
+  {
+    "day": {
+      "name": "Pondělí",
+      "index": 1
+    },
+    "subjects": [
+      "",
+      {
+        "subject": {
+          "name": "Webové aplikace",
+          "label": "WA"
+        },
+        "teacher": {
+          "name": "RNDr. Jana Reslová",
+          "label": "RES"
+        },
+        "classroom": "D363"
+      },
+      {
+        "subject": {
+          "name": "Webové aplikace",
+          "label": "WA"
+        },
+        "teacher": {
+          "name": "RNDr. Jana Reslová",
+          "label": "RES"
+        },
+        "classroom": "D363"
+      },
+      {
+        "subject": {
+          "name": "Programování",
+          "label": "PG"
+        },
+        "teacher": {
+          "name": "Mgr. Čestmír Bárta",
+          "label": "BAT"
+        },
+        "classroom": "D363"
+      },
+      {
+        "subject": {
+          "name": "Programování",
+          "label": "PG"
+        },
+        "teacher": {
+          "name": "Mgr. Čestmír Bárta",
+          "label": "BAT"
+        },
+        "classroom": "D363"
+      },
+      {
+        "subject": {
+          "name": "Programování",
+          "label": "PG"
+        },
+        "teacher": {
+          "name": "Mgr. Čestmír Bárta",
+          "label": "BAT"
+        },
+        "classroom": "D363"
+      },
+      {
+        "subject": {
+          "name": "Anglický jazyk",
+          "label": "AJ"
+        },
+        "teacher": {
+          "name": "Mgr. Andrea Pospíšilová",
+          "label": "POS"
+        },
+        "classroom": "B304"
+      },
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "day": {
+      "name": "Úterý",
+      "index": 2
+    },
+    "subjects": [
+      "",
+      "",
+      {
+        "subject": {
+          "name": "Operační systémy",
+          "label": "OS"
+        },
+        "teacher": {
+          "name": "PaedDr. Petr Šeda",
+          "label": "SED"
+        },
+        "classroom": "D353"
+      },
+      {
+        "subject": {
+          "name": "Operační systémy",
+          "label": "OS"
+        },
+        "teacher": {
+          "name": "PaedDr. Petr Šeda",
+          "label": "SED"
+        },
+        "classroom": "D353"
+      },
+      {
+        "subject": {
+          "name": "Operační systémy",
+          "label": "OS"
+        },
+        "teacher": {
+          "name": "PaedDr. Petr Šeda",
+          "label": "SED"
+        },
+        "classroom": "D353"
+      },
+      {
+        "subject": {
+          "name": "Počítačové sítě",
+          "label": "PS"
+        },
+        "teacher": {
+          "name": "Ing. Jiří Škrlant",
+          "label": "SKR"
+        },
+        "classroom": "A005"
+      },
+      {
+        "subject": {
+          "name": "Počítačové sítě",
+          "label": "PS"
+        },
+        "teacher": {
+          "name": "Ing. Jiří Škrlant",
+          "label": "SKR"
+        },
+        "classroom": "A005"
+      },
+      "",
+      {
+        "subject": {
+          "name": "Tělesná výchova",
+          "label": "TV"
+        },
+        "teacher": {
+          "name": "Bc. Martin Braun",
+          "label": "BRN"
+        },
+        "classroom": "SOK"
+      },
+      {
+        "subject": {
+          "name": "Tělesná výchova",
+          "label": "TV"
+        },
+        "teacher": {
+          "name": "Bc. Martin Braun",
+          "label": "BRN"
+        },
+        "classroom": "SOK"
+      },
+      "",
+      ""
+    ]
+  },
+  {
+    "day": {
+      "name": "Středa",
+      "index": 3
+    },
+    "subjects": [
+      "",
+      {
+        "subject": {
+          "name": "Anglický jazyk",
+          "label": "AJ"
+        },
+        "teacher": {
+          "name": "Mgr. Andrea Pospíšilová",
+          "label": "POS"
+        },
+        "classroom": "B304"
+      },
+      {
+        "subject": {
+          "name": "Informatika",
+          "label": "IN"
+        },
+        "teacher": {
+          "name": "Mgr. René Dus",
+          "label": "DUS"
+        },
+        "classroom": "D055"
+      },
+      {
+        "subject": {
+          "name": "Informatika",
+          "label": "IN"
+        },
+        "teacher": {
+          "name": "Mgr. René Dus",
+          "label": "DUS"
+        },
+        "classroom": "D055"
+      },
+      {
+        "subject": {
+          "name": "Matematika",
+          "label": "MA"
+        },
+        "teacher": {
+          "name": "Mgr. Kateřina Mannlová",
+          "label": "MAN"
+        },
+        "classroom": "D351"
+      },
+      {
+        "subject": {
+          "name": "Anglický jazyk",
+          "label": "AJ"
+        },
+        "teacher": {
+          "name": "Mgr. Andrea Pospíšilová",
+          "label": "POS"
+        },
+        "classroom": "D351"
+      },
+      {
+        "subject": {
+          "name": "Český jazyk a literatura",
+          "label": "CJ"
+        },
+        "teacher": {
+          "name": "Mgr. Lea Bednaříková",
+          "label": "BED"
+        },
+        "classroom": "D352"
+      },
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "day": {
+      "name": "Čtvrtek",
+      "index": 4
+    },
+    "subjects": [
+      "",
+      "",
+      {
+        "subject": {
+          "name": "Matematika",
+          "label": "MA"
+        },
+        "teacher": {
+          "name": "Mgr. Kateřina Mannlová",
+          "label": "MAN"
+        },
+        "classroom": "D352"
+      },
+      {
+        "subject": {
+          "name": "Základy společenských věd",
+          "label": "SV"
+        },
+        "teacher": {
+          "name": "Mgr. Lea Bednaříková",
+          "label": "BED"
+        },
+        "classroom": "B302"
+      },
+      {
+        "subject": {
+          "name": "Český jazyk a literatura",
+          "label": "CJ"
+        },
+        "teacher": {
+          "name": "Mgr. Lea Bednaříková",
+          "label": "BED"
+        },
+        "classroom": "B301"
+      },
+      {
+        "subject": {
+          "name": "Webové projekty",
+          "label": "WP"
+        },
+        "teacher": {
+          "name": "Ing. Vladimír Kašpar",
+          "label": "KAS"
+        },
+        "classroom": "D263"
+      },
+      {
+        "subject": {
+          "name": "Webové projekty",
+          "label": "WP"
+        },
+        "teacher": {
+          "name": "Ing. Vladimír Kašpar",
+          "label": "KAS"
+        },
+        "classroom": "D263"
+      },
+      "",
+      {
+        "subject": {
+          "name": "Praxe",
+          "label": "PX"
+        },
+        "teacher": {
+          "name": "Ing. Radek Jelínek",
+          "label": "JEL"
+        },
+        "classroom": "D251"
+      },
+      {
+        "subject": {
+          "name": "Praxe",
+          "label": "PX"
+        },
+        "teacher": {
+          "name": "Ing. Radek Jelínek",
+          "label": "JEL"
+        },
+        "classroom": "D251"
+      },
+      {
+        "subject": {
+          "name": "Praxe",
+          "label": "PX"
+        },
+        "teacher": {
+          "name": "Ing. Radek Jelínek",
+          "label": "JEL"
+        },
+        "classroom": "D251"
+      },
+      ""
+    ]
+  },
+  {
+    "day": {
+      "name": "Pátek",
+      "index": 5
+    },
+    "subjects": [
+      "",
+      {
+        "subject": {
+          "name": "Český jazyk a literatura",
+          "label": "CJ"
+        },
+        "teacher": {
+          "name": "Mgr. Lea Bednaříková",
+          "label": "BED"
+        },
+        "classroom": "B104"
+      },
+      {
+        "subject": {
+          "name": "Ekonomika",
+          "label": "EN"
+        },
+        "teacher": {
+          "name": "Ing. Pavlína Boušková",
+          "label": "BOU"
+        },
+        "classroom": "D352"
+      },
+      {
+        "subject": {
+          "name": "Základy společenských věd",
+          "label": "SV"
+        },
+        "teacher": {
+          "name": "Mgr. Lea Bednaříková",
+          "label": "BED"
+        },
+        "classroom": "B103"
+      },
+      {
+        "subject": {
+          "name": "Matematika",
+          "label": "MA"
+        },
+        "teacher": {
+          "name": "Mgr. Kateřina Mannlová",
+          "label": "MAN"
+        },
+        "classroom": "B333"
+      },
+      {
+        "subject": {
+          "name": "Matematika",
+          "label": "MA"
+        },
+        "teacher": {
+          "name": "Mgr. Kateřina Mannlová",
+          "label": "MAN"
+        },
+        "classroom": "B333"
+      },
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+]
